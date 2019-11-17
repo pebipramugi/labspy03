@@ -40,4 +40,3 @@ print("laba bulan ke - :",i,"sebesar", laba) mencetak laba perbulan
 print("Total laba adalah :", untung) menghitung total laba selama 8 bulan 
 ![labspy3](https://user-images.githubusercontent.com/56243487/69007367-807e4480-096f-11ea-99bd-f490ce2387ca.PNG)
 
-
